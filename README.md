@@ -1,4 +1,4 @@
-![MasterHead](https://images-ext-1.discordapp.net/external/t8oV5fGPQcWo27DD3rYhtUzK3amw-vu2ojGd5DYDnic/https/user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?width=1920&height=1080)
+![MasterHead](https://images-ext-1.discordapp.net/external/t8oV5fGPQcWo27DD3rYhtUzK3amw-vu2ojGd5DYDnic/https/user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?width=1920)
 
 # 💫 About Me:
 💻 Hello, Im Saed Emad a software engineering from Jordan<br>🤝 If you want to reach me out alrababah.saedemad@gmail.com<br>⌛ I’m currently learning C# and Python<br>💼 Ask me about webdesgin or game development <br>🎭 Fun fact i dont rage when i get bugs 
